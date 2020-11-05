@@ -1,0 +1,1 @@
+update `questions` set `medicine_duration` = '4--6 Months' WHERE `question_id` in (1,2,3);
